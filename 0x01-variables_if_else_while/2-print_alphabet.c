@@ -6,7 +6,6 @@
  */
 
 int mai(void)
-
 {
 	char c;
 
